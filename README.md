@@ -9,7 +9,7 @@ Quit or Exit: Allows the user to exit the program.
 Installation
 To install and run this project locally, follow these steps:
 Clone the repository :
-   git clone https://github.com/VisheshJain21/PRODIGY_CS_01.git
+   
 Navigate to the project directory :
   cd PRODIGY_CS_01
 Install dependencies :
